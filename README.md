@@ -24,7 +24,7 @@
 
 ## 三、目錄
 
-本夾即全部可公開發表之物，不含影像、轉錄初稿與內部工作檔。全稿 `蕪湖縣志_卷之一_標點校勘稿.pdf` 隨庫存放；整夾打包的 `蕪湖縣志_卷之一_標點校勘稿_v0.1_2026-11-12.zip` 另附 [Releases v0.1](https://github.com/DUYONGLE-CN/wuhu-xianzhi/releases/tag/v0.1)。兩者校驗值並見 `SHA256SUMS.txt`。
+本夾即全部可公開發表之物，不含影像、轉錄初稿與內部工作檔。全稿 `蕪湖縣志_卷之一_標點校勘稿.pdf` 隨庫存放；整夾打包的附件 `wuhu-xianzhi_v0.1_2026-11-12.zip`（GitHub 附件名不用中文，解包後檔案名仍為原名）見 [Releases v0.1](https://github.com/DUYONGLE-CN/wuhu-xianzhi/releases/tag/v0.1)。兩者校驗值並見 `SHA256SUMS.txt`。
 
 ```
 蕪湖縣志_卷之一_標點校勘稿.pdf   全稿 103 頁（扉頁、凡例、卷首、卷一）
